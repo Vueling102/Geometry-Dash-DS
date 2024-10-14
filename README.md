@@ -1,4 +1,4 @@
-echo "# Geometry-Dash-DS" >> README.md
+Geometry Dash for Nintendo DS! Here are the source code
 git init
 git add README.md
 git commit -m "first commit"
